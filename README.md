@@ -1,2 +1,1 @@
 # homework
-ITMentorstva homework batch
